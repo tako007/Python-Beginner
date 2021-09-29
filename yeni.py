@@ -1,6 +1,3 @@
-
-
-
 import numpy as np
 import matplotlib
 matplotlib.rcParams["backend"] = "tkagg"
